@@ -8,7 +8,6 @@ A Power BI data storytelling project that analyzes and visualizes data from Lahm
 ![Dashboard Preview](https://github.com/mbilalazeem/Baseball-Data-Storytelling-with-Power-BI/blob/main/Baseball%20Data%20Storytelling%20with%20Power%20BI-5.png)
 ![Dashboard Preview](https://github.com/mbilalazeem/Baseball-Data-Storytelling-with-Power-BI/blob/main/Baseball%20Data%20Storytelling%20with%20Power%20BI-6.png)
 ![Dashboard Preview](https://github.com/mbilalazeem/Baseball-Data-Storytelling-with-Power-BI/blob/main/Baseball%20Data%20Storytelling%20with%20Power%20BI-7.png)
-![image](https://github.com/mbilalazeem/Baseball-Data-Storytelling-with-Power-BI/assets/78120784/19de040d-3ac1-42a5-ab93-766bf717763a)
 
 
 ## Project Overview
